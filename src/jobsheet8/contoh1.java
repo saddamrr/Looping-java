@@ -14,6 +14,7 @@ public class contoh1 {
         {
             System.out.println("SMK Telkom Malang");
         }
+    
         
         // WHILE
         int i = 1;
@@ -21,7 +22,7 @@ public class contoh1 {
         {
             System.out.println("SMK Telkom Malang");
             i++;
-        }
+}
         
         
         // DO WHILE
